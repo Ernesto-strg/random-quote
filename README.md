@@ -1,2 +1,2 @@
 # random-quote
-Website for displaying random quotes
+Website for displaying a random quote
